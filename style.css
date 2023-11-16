@@ -38,7 +38,7 @@ header a:hover{
 }
 
 main{
-    min-width: 350px;
+    min-width: 500px;
     max-width: 1366px;
 }
 
@@ -71,12 +71,9 @@ aside#imagem1{
 aside >p#pimagem1{
     color: white;
     background-color: rgba(0, 0, 0, 0.459);
-    width: 370px;
-    height: 380px;
-    padding-left: 10px;
-    padding-top: 10px;
+    width: 400px;
+    padding: 5px;
     border-radius: 5px;
-    margin-left: 30px;
 }
 
 aside#imagem2{
@@ -97,12 +94,9 @@ aside#imagem2{
 aside >p#pimagem2{
     color: white;
     background-color: rgba(0, 0, 0, 0.459);
-    width: 370px;
-    height: 380px;
-    padding-left: 10px;
-    padding-top: 10px;
+    width: 400px;
+    padding: 5px;
     border-radius: 5px;
-    margin-left: 30px;
    }
 
 
